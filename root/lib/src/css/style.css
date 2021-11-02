@@ -12,6 +12,7 @@
 .col2 h1{font-size:50px;line-height:60px;margin:25px 0px;}
 .col2 img{max-width:100%;padding:50px 0px;}
 .col3{}
+.ftxt{text-align:center;color:#555;}
 .row{display:flex;align-item:center;flex-wrap:wrap;justify-content:space-around;}
 .cntanr{max-width:1300px;margin:auto;padding:25px 0px 25px 0px;}
 .cats{}
@@ -26,5 +27,3 @@ section{float:left;}
 article{float:right;}
 a{text-decoration:none;color:#555;text-align:center;}
 p{width:auto;color:#555;}
-footer{text-align:center;}
-footer i{color:#444;}
