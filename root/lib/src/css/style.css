@@ -18,7 +18,7 @@
 .ftxt{color:#555;}
 div.cntr{padding:15px 0px;border:1px solid #dedede;margin:auto;background:url(https://xsport.store/root/lib/assets/gfx/img/bnr/bgimg/white_brick_wall_4k.png) no-repeat;}
 header{text-align:center;font-family:Arial,Helvetica,sans-serif;margin:auto;}
-body{font-family:'Poppings',sans-serif;margin:0px 8px 8px 8px;background:radial-gradient(#aaa,#111);}
+body{font-family:'Poppings',sans-serif;margin:0px 8px 8px 8px;background:radial-gradient(#aaa,#111) no-repeat;}
 nav{flex:1;text-align:right;}
 nav ul{display:inline-block;list-style-type:none;}
 nav ul li{display:inline-block;margin-right:20px;}
