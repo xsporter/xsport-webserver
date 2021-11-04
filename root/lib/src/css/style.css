@@ -12,11 +12,10 @@
 .col2 h1{font-size:50px;line-height:60px;margin:25px 0px;}
 .col2 img{max-width:100%;padding:50px 0px;}
 .col3{}
+.logo{width:512px;height:256px;}
 .row{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;}
 .cntanr{max-width:1300px;margin:auto;padding:25px 0px 25px 0px;}
 .cats{}
-.logo{width:512px;height:256px;}
-#itm{width:256px;height:256px;}
 #shdw{border:1px solid #101010;width:80%;box-shadow:1px 1.5px #333;margin:auto;background:#444}
 #ftr{text-align:center;color:#444;background:#111;}
 div.cntr{padding:15px 0px;border:1px solid #dedede;margin:auto;background:url(https://xsport.store/root/lib/assets/gfx/img/bnr/bgimg/white_brick_wall_4k.png) no-repeat;}
