@@ -15,7 +15,7 @@
 .logo{width:64px;height:32px;}
 .nico{width:32px;}
 .row{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;}
-.cntanr{max-width:1300px;margin:auto;padding:25px 0px 25px 0px;}
+.cntr{max-width:1300px;margin:auto;padding:25px 0px 25px 0px;}
 .cats{}
 #shdw{border:1px solid #101010;width:80%;box-shadow:1px 1.5px #333;margin:auto;background:#444;border-radius:0px 0px 32px 32px;}
 #shdw2{background-color:#444;box-shadow:1px 1.5px #333;margin:auto;width:80%;border:1px solid #101010;}
