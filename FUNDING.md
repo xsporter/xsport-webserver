@@ -3,7 +3,7 @@
 github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [swedishstudiosgames, swedenstyle34]
 patreon: # Replace with a single Patreon username
 open_collective: # Replace with a single Open Collective username
-paypal: swedishstudiosgames+paypal@gmail.com
+paypal: ('https://paypal.me/swedishstudiosgames')
 ko_fi: # Replace with a single Ko-fi username
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
