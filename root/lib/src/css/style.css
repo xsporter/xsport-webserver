@@ -2,7 +2,7 @@
 @viewport{width:device-width;}
 @import url("https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css");
 *{margin:0;padding:0;box-sizing:border-box;}
-.hdr{font-family:'Poppings',sans-serif;margin:0px 8px 8px 8px;background:#444;}
+.hdr{font-family:'Poppings',sans-serif;margin:25px;background:#888;padding:2px;box-shadow:1.1px 1.1px #777;}
 .hdr .row{margin-top:70px;}
 .btn{display:inline-block;background:#ff523b;color:#fff;padding:8px 30px;margin:30px 0px;border-radius:30px;transition:background 0.5s;}
 .btn:hover{background:#563434;}
@@ -15,12 +15,11 @@
 .logo{width:32px;height:32px;}
 .nico{width:32px;}
 .row{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;}
-.cntr{max-width:1300px;margin:auto;padding:25px 0px;}
 .cats{}
 #shdw{border:1px solid #101010;width:75%;box-shadow:1px 1.5px #333;margin:auto;background:#444;border-radius:0px 0px 32px 32px;}
-#shdw2{background-color:#444;box-shadow:1px 1.5px #333;margin:auto;width:75%;border:1px solid #101010;}
+#shdw2{border:1px solid #101010;width:75%;box-shadow:1px 1.5px #333;margin:0px auto;background:#555;}
 #ftr{text-align:center;color:#444;background:#111;}
-div.cntr{padding:15px 0px;border:1px solid #dedede;margin:auto;background:url(https://loppan.store/root/lib/assets/gfx/img/bnr/bgimg/white_brick_wall_4k.png) no-repeat;}
+div.cntr{border:1px solid #777;margin:auto;padding:25px;box-shadow:1px 1.5px #999;}
 header{text-align:center;font-family:Arial,Helvetica,sans-serif;margin:auto;}
 body{font-family:'Poppings',sans-serif;margin:0px 8px 8px 8px;background:radial-gradient(#fff,#111)no-repeat;}
 nav{text-align:right;}
