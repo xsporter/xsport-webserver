@@ -16,7 +16,7 @@
 .nico{width:32px;}
 .row{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;}
 .cats{}
-#shdw{border:1px solid #101010;width:75%;box-shadow:1px 1.5px #333;margin:auto;background:#444;border-radius:0px 0px 32px 32px;}
+#shdw{border:1px solid #101010;width:75%;box-shadow:1px 1.5px #333;margin:auto;background:#333;border-radius:0px 0px 32px 32px;}
 #shdw2{border:1px solid #101010;width:75%;box-shadow:1px 1.5px #333;margin:0px auto;background:#555;}
 #ftr{text-align:center;color:#444;background:#111;}
 div.cntr{border:1px solid #777;margin:auto;padding:25px;box-shadow:1px 1.5px #999;}
