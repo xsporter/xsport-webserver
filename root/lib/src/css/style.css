@@ -3,17 +3,14 @@
 @import url("https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css");
 *{margin:0;padding:0;box-sizing:border-box;}
 .hdr{font-family:'Poppings',sans-serif;margin:25px;background:#888;padding:2px;box-shadow:1.1px 1.1px #777;}
-.hdr .row{margin-top:70px;}
+.hdr .row{margin:8px auto;}
 .btn{display:inline-block;background:#ff523b;color:#fff;padding:8px 30px;margin:30px 0px;border-radius:30px;transition:background 0.5s;}
 .btn:hover{background:#563434;}
 .nbr{display:flex;align-items:center;padding:20px;}
 .nbtn{width:30px;height:30px;}
-.col2{flex-basis:50%;min-width:300px;}
-.col2 h1{font-size:50px;line-height:60px;margin:25px 0px;}
-.col2 img{max-width:100%;padding:50px 0px;}
 .row{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;}
-.cats .row .col3 a img{width:200px;height:200px;box-shadow:1px 1.25px #888;border:1px solid #777;background:#ddd;}
-.cats .row .col3 a h4{text-align:center;font-family:arial;color:#333;}
+.cats .row .col a img{width:200px;height:200px;box-shadow:1px 1.25px #888;border:1px solid #777;background:#ddd;}
+.cats .row .col a h4{text-align:center;font-family:arial;color:#333;}
 #shdw{border:1px solid #101010;width:64%;box-shadow:1px 1.5px #333;margin:auto;background:#333;border-radius:0px 0px 32px 32px;}
 #shdw2{border:1px solid #101010;width:64%;box-shadow:1px 1.5px #333;margin:0px auto;background:#555;}
 #ftr{text-align:center;color:#444;background:#111;}
