@@ -16,7 +16,7 @@
 .nico{width:32px;}
 .row{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;}
 .cats{}
-.cats .row .col3 img{width:200px;height:200px;}
+.cats .row .col3 img{width:200px;height:auto;}
 .cats .row .col3 h4{text-align:center;font-family:arial;color:#333;}
 #shdw{border:1px solid #101010;width:75%;box-shadow:1px 1.5px #333;margin:auto;background:#333;border-radius:0px 0px 32px 32px;}
 #shdw2{border:1px solid #101010;width:75%;box-shadow:1px 1.5px #333;margin:0px auto;background:#555;}
