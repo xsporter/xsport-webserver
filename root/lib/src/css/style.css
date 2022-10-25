@@ -12,6 +12,14 @@
 .cats .row .col a{width:200px;height:200px;box-shadow:1px 1.25px #888;border:1px solid #777;background:#ddd;}
 .cats .row .col a img{max-width:200px;max-height;200px:}
 .cats .row .col a h4{text-align:center;font-family:arial;color:#333;}
+.cats .row .col .ft1 a img{width:200px;height:133px;}
+.cats .row .col .ft2 a img{width:148px;height:200px;}
+.cats .row .col .ft3 a img{width:200px;height:200px;}
+.cats .row .col .ft4 a img{width:200px;height:200px;}
+.cats .row .col .ft5 a img{width:200px;height:200px;}
+.cats .row .col .ft6 a img{width:200px;height:200px;}
+.cats .row .col .ft7 a img{width:200px;height:200px;}
+.cats .row .col .ft8 a img{width:200px;height:200px;}
 #shdw{border:1px solid #101010;width:64%;box-shadow:1px 1.5px #333;margin:auto;background:#333;border-radius:0px 0px 32px 32px;}
 #shdw2{border:1px solid #101010;width:64%;box-shadow:1px 1.5px #333;margin:0px auto;background:#555;}
 #ftr{text-align:center;color:#444;background:#111;}
