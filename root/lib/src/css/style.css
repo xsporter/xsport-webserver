@@ -11,8 +11,8 @@
 .row{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;}
 .cats .row .col a{width:200px;height:200px;box-shadow:1px 1.25px #888;border:1px solid #777;background:#ddd;display:inline-grid;}
 .cats .row .col h4{text-align:center;font-family:arial;color:#333;}
-.ft1{width:200px;height:133px;margin:31px 0px;}
-.ft2{width:200px;height:200px;}
+.ft1{width:200px;height:133px;margin:33px 0px;}
+.ft2{width:160px;height:160px;margin:19px;}
 .ft3{width:200px;height:200px;}
 .ft4{width:200px;height:200px;}
 .ft5{width:200px;height:200px;}
