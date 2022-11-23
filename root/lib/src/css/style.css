@@ -22,9 +22,7 @@
 .ft7{width:143px;height:200px;margin:auto;padding:10px;}
 .ft8{width:200px;height:200px;padding:16px;}
 .ftr-lgl{margin-right:16px;float:left;text-align:center;}
-.nbtn-ico-l{margin-right:16px;float:left;}
-#nbr-r{margin-left:640px;float:right;}
-.nbtn-ico-r{margin-right:16px;float:left;}
+.nbtn-ico{margin-right:16px;float:left;}
 #shdw{border:1px solid #101010;width:64%;box-shadow:1px 1.5px #333;margin:auto;background:#333;border-radius:0px 0px 32px 32px;}
 #shdw2{border:1px solid #101010;width:64%;box-shadow:1px 1.5px #333;margin:0px auto;background:#555;}
 #ftr{text-align:center;color:#444;background:#111;}
